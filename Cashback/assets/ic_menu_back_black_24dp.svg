@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_menu_back_black_24dp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Two" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.87">
+        <g id="cashback_tansport_full" transform="translate(-14.000000, -30.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="NavBar-/-Big-/-Icon">
+                <g id="ic_left" transform="translate(14.000000, 30.000000)">
+                    <path d="M5.81066017,12.75 L12.1767767,19.1161165 C12.3720388,19.3113787 12.3720388,19.6279612 12.1767767,19.8232233 L11.8232233,20.1767767 C11.6279612,20.3720388 11.3113787,20.3720388 11.1161165,20.1767767 L3.29289322,12.3535534 C3.09763107,12.1582912 3.09763107,11.8417088 3.29289322,11.6464466 L11.1161165,3.8232233 C11.3113787,3.62796116 11.6279612,3.62796116 11.8232233,3.8232233 L12.1767767,4.1767767 C12.3720388,4.37203884 12.3720388,4.68862133 12.1767767,4.88388348 L5.81066017,11.25 L20.5,11.25 C20.7761424,11.25 21,11.4738576 21,11.75 L21,12.25 C21,12.5261424 20.7761424,12.75 20.5,12.75 L5.81066017,12.75 Z" id="back"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
