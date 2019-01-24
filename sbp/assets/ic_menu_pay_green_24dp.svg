@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_menu_pay_green_24dp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="iOS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Экран-платежей" transform="translate(-100.000000, -624.000000)" fill="#22BE54">
+            <g id="Tab-Bar-/-2" transform="translate(0.000000, 618.000000)">
+                <g id="Tab" transform="translate(75.000000, 0.000000)">
+                    <g id="Второй" transform="translate(25.500000, 6.000000)">
+                        <path d="M2,9.00684547 C2,8.45078007 2.45530558,8 2.99180311,8 L21.0081969,8 C21.5559546,8 22,8.44994876 22,9.00684547 L22,20.9931545 C22,21.5492199 21.5446944,22 21.0081969,22 L2.99180311,22 C2.44404538,22 2,21.5500512 2,20.9931545 L2,9.00684547 Z M6,16 C6.55228475,16 7,15.5522847 7,15 C7,14.4477153 6.55228475,14 6,14 C5.44771525,14 5,14.4477153 5,15 C5,15.5522847 5.44771525,16 6,16 Z M6.5,6.5 L13.1396546,2.51620722 C13.6148103,2.23111384 14.2455026,2.36825389 14.5502462,2.82536936 L17,6.5 L6.5,6.5 Z" id="pay"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
