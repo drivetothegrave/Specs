@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="228px" viewBox="0 0 160 228" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>СТС</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="74.5940498%" y1="100%" x2="25.4059502%" y2="1.72254642e-14%" id="linearGradient-1">
+            <stop stop-color="#FFC6E4" offset="0%"></stop>
+            <stop stop-color="#C9E4FA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="159.745223" height="227.770701" rx="9.17197452"></rect>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Поиск-штрафов-по-ВУ-и-СТС" transform="translate(-608.000000, -257.000000)">
+            <g id="СТС" transform="translate(608.000000, 257.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.8" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <rect id="Rectangle" fill="#000000" opacity="0.04" mask="url(#mask-3)" x="0" y="158.980892" width="159.745223" height="37.4522293"></rect>
+                <rect id="Rectangle" stroke="#FF4732" stroke-width="0.76433121" mask="url(#mask-3)" x="34.0127389" y="202.165605" width="92.4840764" height="21.4012739" rx="10.3184713"></rect>
+                <text id="12-AB-№345678" mask="url(#mask-3)" font-family="SFProText-Medium, SF Pro Text" font-size="9.93630573" font-weight="400" fill="#FF4732">
+                    <tspan x="40.8006568" y="216.133758">12 AB №345678</tspan>
+                </text>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="39.7452229" y="16.0509554" width="80.2547771" height="6.11464968" rx="3.05732484"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="19.8726115" y="32.1019108" width="119.235669" height="6.11464968" rx="3.05732484"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="26.7515924" y="42.0382166" width="105.477707" height="6.11464968" rx="3.05732484"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="62.6751592" width="51.2101911" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="71.8471338" width="77.9617834" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="88.6624204" width="25.2229299" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="97.8343949" width="11.4649682" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="107.006369" width="37.4522293" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="116.178344" width="25.9872611" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="125.350318" width="18.343949" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="134.522293" width="20.6369427" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="143.694268" width="11.4649682" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="152.866242" width="45.8598726" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="162.038217" width="37.4522293" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="171.210191" width="29.8089172" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="180.382166" width="45.8598726" height="3.82165605" rx="1.91082803"></rect>
+                <rect id="Rectangle" fill-opacity="0.240913723" fill="#000000" mask="url(#mask-3)" x="11.4649682" y="189.55414" width="37.4522293" height="3.82165605" rx="1.91082803"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
