@@ -1,2 +1,2 @@
 # Specs
-Design specs
+Design Specs
