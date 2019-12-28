@@ -7,9 +7,10 @@
         <g id="globe" transform="translate(0.000000, 1.000000)">
             <g id="Group">
                 <ellipse id="Oval" fill="#10002B" fill-rule="nonzero" cx="284.7" cy="598.1" rx="284.7" ry="19"></ellipse>
-                <g transform="translate(27.000000, 0.000000)" id="Oval">
-                    <ellipse stroke="#FFFFFF" stroke-width="2.0741" opacity="0.25" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
-                    <ellipse fill="#FFFFFF" fill-rule="nonzero" opacity="0.0775204613" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
+                <g transform="translate(27.000000, 0.000000)">
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2.0741" opacity="0.25" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
+                    <path d="M235.1,12.5 C108,21.9 5.2,139.5 15.1,260 C20.4,200.6 44.7,142.5 83.9,97.8 C123.1,53.1 177.2,25.3 235.1,12.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" opacity="0.08"></path>
+                    <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.04" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
                 </g>
                 <g transform="translate(67.000000, 449.000000)" fill-rule="nonzero" id="Path">
                     <path d="M6.6,92.1 C8.9,88.9 11.6,86 14.2,83 C24.4,71.2 31.7,57 35.5,41.9 L397.5,42.3 C398.5,44.8 399.6,47.2 400.6,49.7 C402.1,53.3 403.6,56.9 405.3,60.4 C410.3,70.9 417,80.7 424.8,89.3 L6.6,92.1 Z" fill="#8A7E9E"></path>
