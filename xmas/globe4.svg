@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="570px" height="619px" viewBox="0 0 570 619" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>globe</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="globe" transform="translate(0.000000, 1.000000)">
+            <g id="Group">
+                <ellipse id="Oval" fill-opacity="0.165264423" fill="#000000" fill-rule="nonzero" cx="284.7" cy="598.1" rx="284.7" ry="19"></ellipse>
+                <g transform="translate(27.000000, 0.000000)">
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2.0741" opacity="0.25" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
+                    <path d="M235.1,12.5 C108,21.9 5.2,139.5 15.1,260 C20.4,200.6 44.7,142.5 83.9,97.8 C123.1,53.1 177.2,25.3 235.1,12.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" opacity="0.08"></path>
+                    <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.04" cx="255.6" cy="253.8" rx="255.1" ry="253.6"></ellipse>
+                </g>
+                <g transform="translate(67.000000, 449.000000)" fill-rule="nonzero" id="Path">
+                    <path d="M6.6,92.1 C8.9,88.9 11.6,86 14.2,83 C24.4,71.2 31.7,57 35.5,41.9 L397.5,42.3 C398.5,44.8 399.6,47.2 400.6,49.7 C402.1,53.3 403.6,56.9 405.3,60.4 C410.3,70.9 417,80.7 424.8,89.3 L6.6,92.1 Z" fill="#B5B8B8"></path>
+                    <path d="M422.3,153.2 L11.5,153.2 C5.4,153.2 0.5,148.3 0.5,142.2 L0.5,95.1 C0.5,89.1 5.4,84.1 11.5,84.1 L422.4,84.1 C428.4,84.1 433.4,89.1 433.4,95.1 L433.4,142.2 C433.3,148.3 428.4,153.2 422.3,153.2 Z" fill="#DDDFDF"></path>
+                    <path d="M380.3,0.5 C377.9,13.7 382.9,22.3 391.2,32.9 L44,32.3 C45.1,32.4 46,31.3 46.5,30.4 C52,20.6 57.6,14.2 55.6,3.1 C55.6,3.1 220.1,24.5 380.3,0.5 Z" fill="#B5B8B8"></path>
+                    <path d="M399.5,48.7 L34.3,48.7 C29,48.7 24.7,44.4 24.7,39.1 L24.7,38.4 C24.7,33.1 29,28.8 34.3,28.8 L399.4,28.8 C404.7,28.8 409.00171,33.1 409.00171,38.4 L409.00171,39.1 C409.1,44.4 404.8,48.7 399.5,48.7 Z" fill="#DDDFDF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
